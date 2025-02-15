@@ -36,7 +36,7 @@ export default function LoginForm() {
             </div>
             <div>
               <p className='peer line w-full text-sm text-gray-500 pl-10'>
-                Test Login: <span className='text-green-400'>user@nextmail.com</span>
+                Test Login: <span className='text-green-800'>user@nextmail.com</span>
               </p>
             </div>
           </div>
@@ -58,7 +58,7 @@ export default function LoginForm() {
             </div>
             <div className='relative'>
               <p className='peer line w-full text-sm text-gray-500 pl-10'>
-                Test Password: <span className='text-green-400'>123456</span>
+                Test Password: <span className='text-green-800'>123456</span>
               </p>
             </div>
           </div>

@@ -1,5 +1,10 @@
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { FaceFrownIcon } from '@heroicons/react/24/outline';
+
+export const metadata: Metadata = {
+  title: 'Not Found',
+};
 
 export default function NotFound() {
   return (
